@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
+| [0027-remove-element](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0283-move-zeroes](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0283-move-zeroes) |
 | [0151-reverse-words-in-a-string](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0189-rotate-array) |
+| [0027-remove-element](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
