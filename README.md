@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0088-merge-sorted-array](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0015-3sum](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
