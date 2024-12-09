@@ -25,6 +25,7 @@
 | [0013-roman-to-integer](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0389-find-the-difference) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0013-roman-to-integer](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0389-find-the-difference) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -92,8 +94,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0389-find-the-difference) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
