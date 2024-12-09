@@ -21,6 +21,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0088-merge-sorted-array](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0242-valid-anagram) |
 | [0169-majority-element](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +84,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
