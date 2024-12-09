@@ -19,6 +19,7 @@
 | [0075-sort-colors](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0169-majority-element](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 | [0387-first-unique-character-in-a-string](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0217-contains-duplicate](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0389-find-the-difference](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0389-find-the-difference) |
 | [0075-sort-colors](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/1019-squares-of-a-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
