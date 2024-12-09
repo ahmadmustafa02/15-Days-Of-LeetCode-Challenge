@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0088-merge-sorted-array](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
