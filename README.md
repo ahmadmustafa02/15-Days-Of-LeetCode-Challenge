@@ -23,6 +23,7 @@
 | ------- |
 | [0541-reverse-string-ii](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0541-reverse-string-ii) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0014-longest-common-prefix](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ahmadmustafa02/15-Days-Of-LeetCode-Challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
